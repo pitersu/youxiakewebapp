@@ -1,7 +1,7 @@
 # youxiakewebapp
 Vue仿游侠客webapp
 
-#### 1.300ms点击延迟
+#### 1.解决300ms点击延迟问题
 
 `cnpm install fastclick --save`
 
